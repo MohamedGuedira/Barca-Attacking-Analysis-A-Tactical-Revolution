@@ -1,0 +1,6 @@
+Pillow
+beautifulsoup4
+pandas
+requests
+mplsoccer
+matplotlib
