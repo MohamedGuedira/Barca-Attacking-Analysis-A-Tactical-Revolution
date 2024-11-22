@@ -23,15 +23,18 @@ Under the strategic genius of Hansi Flick, FC Barcelona has embraced a new tacti
 Install the necessary libraries with a single command:  
 ```bash
 pip install -r requirements.txt
+```
 
 ### How to Use
 1.Clone this repository:
 ```bash
 git clone https://github.com/MohamedGuedira/Barca-Attacking-Analysis-A-Tactical-Revolution.git
+```
 
 2.Open the Jupyter Notebook:
 ```bash
 jupyter notebook Barca_Attacking_in_CL.ipynb
+```
 
 3.Provide a match URL from FotMob, run the code, and enjoy the visualizations.
 
